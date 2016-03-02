@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="21"
+    density="xhdpi"
+    format="3"
+    timestamp="12119888980647" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="C:\WeatherForecast\app\build\intermediates\res\resources-debug.ap_"
+        type="RESOURCES" />
+
+    <build timestamp="11212379759966" >
+        <artifact
+            location="C:\WeatherForecast\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="11424488309124" >
+        <artifact
+            location="C:\WeatherForecast\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9_68795fc3742def735afdc4410ccbed262f014502\classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="12119888980647" >
+        <artifact
+            location="C:\WeatherForecast\app\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+    </build>
+
+</instant-run>

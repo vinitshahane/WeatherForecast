@@ -1,0 +1,8 @@
+CHANGED,C:\WeatherForecast\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\vnt\activities\weatherforecast\MainActivity$MyLocationListener$override.class
+CHANGED,C:\WeatherForecast\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\vnt\activities\weatherforecast\MainActivity$1$override.class
+CHANGED,C:\WeatherForecast\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\WeatherForecast\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\vnt\activities\weatherforecast\MainActivity$2$override.class
+CHANGED,C:\WeatherForecast\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\vnt\activities\weatherforecast\MainActivity$override.class
+CHANGED,C:\WeatherForecast\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\vnt\activities\weatherforecast\MainActivity$3$override.class
+CHANGED,C:\WeatherForecast\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\vnt\activities\weatherforecast\MainActivity$4$override.class
+CHANGED,C:\WeatherForecast\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\vnt\activities\weatherforecast\MainActivity$5$override.class

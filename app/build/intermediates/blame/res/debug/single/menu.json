@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\WeatherForecast\\app\\build\\intermediates\\res\\merged\\debug\\menu\\weather.xml",
+        "source": "C:\\WeatherForecast\\app\\src\\main\\res\\menu\\weather.xml"
+    },
+    {
+        "merged": "C:\\WeatherForecast\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\WeatherForecast\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\WeatherForecast\\app\\build\\intermediates\\res\\merged\\debug\\menu\\color_list.xml",
+        "source": "C:\\WeatherForecast\\app\\src\\main\\res\\menu\\color_list.xml"
+    }
+]
